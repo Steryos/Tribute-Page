@@ -8,32 +8,63 @@ body {
 #main {
   margin: 5px 5px;
   padding: 15px;
+  border-width: 5px 100px;
   border-radius: 25px;
-  background: #eee;
+  background: #eeeeee;
   font-size: 1.2rem;
+  text-align: center;
 }
 
-#title{}
+#title{
+  text-align: center;
+}
 
 #img{
   width: 60%;
   margin:0;
-  padding: 10px;
-  border-radius: 1px;
-  background: #fff;
+  padding: 10px 5px 0 5px;
+  border-radius: 5px;
 }
 
 #img-div{
   margin: 0;
-  padding: 10px;
+  padding: 10px 0 0 0;
   border-radius: 5px;
   background: #fff;
 }
 
 #img-caption{
-  font
+  background-color: #eeeeee;
 }
 
-#tribute-info{}
+#tribute-info {
+  margin-left: auto;
+  margin-right: auto;
+}
 
-#tribute-link{}
+section h3 {
+  text-align: center;
+}
+
+ul {
+  max-width: 500px;
+  text-align: left;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  }
+
+ul li {
+  line-height: 18px;
+  font-size: 1.15rem;
+  margin: 10px 0;
+}
+
+section a {
+  text-decoration: none;
+}
+
+section a:hover {
+  color: #000000;
+}
