@@ -1,2 +1,2 @@
 # Tribute-Page
-A TP for FCC
+A TP about Thomas Sankara for FCC projects

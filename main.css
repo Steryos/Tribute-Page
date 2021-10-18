@@ -1,0 +1,39 @@
+body {
+  font-family: 'monospace', 'Helvetica Neue';
+  font-size: 1.5rem;
+  line-height: 1.4;
+  text-align: center;
+}
+
+#main {
+  margin: 5px 5px;
+  padding: 15px;
+  border-radius: 25px;
+  background: #eee;
+  font-size: 1.2rem;
+}
+
+#title{}
+
+#img{
+  width: 60%;
+  margin:0;
+  padding: 10px;
+  border-radius: 1px;
+  background: #fff;
+}
+
+#img-div{
+  margin: 0;
+  padding: 10px;
+  border-radius: 5px;
+  background: #fff;
+}
+
+#img-caption{
+  font
+}
+
+#tribute-info{}
+
+#tribute-link{}
