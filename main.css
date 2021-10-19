@@ -61,6 +61,11 @@ ul li {
   margin: 10px 0;
 }
 
+blockquote p {
+  max-width: 400px;
+  margin: 20px auto;
+}
+
 section a {
   text-decoration: none;
 }
