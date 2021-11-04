@@ -5,6 +5,11 @@ body {
   text-align: center;
 }
 
+hr {
+  border-width: thick;
+  border-radius: 25%;
+}
+
 #main {
   margin: 5px 5px;
   padding: 15px;
